@@ -52,6 +52,7 @@ const minimumBribesOptimized = (q) => {
         }
         i++;
     }
+    return count;
 }
 
 let q = [2,1,5,3,4]; // 3
